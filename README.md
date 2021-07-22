@@ -1,4 +1,6 @@
 # aqa-code
+[![Build status](https://ci.appveyor.com/api/projects/status/qh0b6q4fk52rffdk?svg=true)](https://ci.appveyor.com/project/arodkina/aqa-code)
+
 Код с лекций Автоматизация тестирования
 
 1. [x] [Основы автоматизации](basics/)
